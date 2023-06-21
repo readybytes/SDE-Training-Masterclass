@@ -2,8 +2,10 @@
 
 -  Pattern Printing:
 Write a C program to print the following pattern:
+
     **Input:**
     N = 4
+
     **Output:**
     1
     22
@@ -12,8 +14,10 @@ Write a C program to print the following pattern:
     
 -  Pattern Printing:
 Write a C program to print the following pattern:
+
     **Input:**
     N = 5
+
     **Output:**
     1
     232
@@ -23,8 +27,10 @@ Write a C program to print the following pattern:
 
 -  Pattern Printing:
 Write a C program to print the following pattern:
+
     **Input:**
     N = 5
+
     **Output:**
     A
     BC
@@ -34,8 +40,10 @@ Write a C program to print the following pattern:
 
 - Pattern Printing:
 Write a C program to print the following pattern:
+
     **Input:**
     N = 4
+
     **Output:**
     1
     1 2
@@ -44,8 +52,10 @@ Write a C program to print the following pattern:
 
 - Pattern Printing:
 Write a C program to print the following pattern:
+
     **Input:**
     N = 5
+
     **Output:**
     E
     D E
@@ -55,8 +65,10 @@ Write a C program to print the following pattern:
 
 - Spiral Matrix:
 Write a C program to create a spiral matrix of size N x N.
+
     **Input:**
     Input: N = 4
+
     **Output:**
     1 2 3 4
     12 13 14 5
@@ -65,8 +77,10 @@ Write a C program to create a spiral matrix of size N x N.
 
 - Pattern Printing:
 Write a C program to print the following pattern:
+
     **Input:**
     N = 4
+
     **Output:**
     1
     1 2 1
@@ -75,60 +89,76 @@ Write a C program to print the following pattern:
 
 - 2D Array Operations:
 Write a C program to find the sum of all elements in a 2D array.
+
     **Input:**
     Array = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}
+
     **Output:**
     Sum = 45
 
 - 2D Array Operations:
 Write a C program to find the transpose of a 2D array.
+
     **Input:**
     Array = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}
+
     **Output:**
     Transpose = {{1, 4, 7}, {2, 5, 8}, {3, 6, 9}}
 
 - 2D Array Operations:
 Write a C program to multiply two matrices and store the result in another matrix.
+
     **Input:**
     Matrix1 = {{1, 2}, {3, 4}}
     Matrix2 = {{5, 6}, {7, 8}}
+
     **Output:**
     Result = {{19, 22}, {43, 50}}
 
 - 2D Array Operations:
 Write a C program to find the largest & smallest element in a 2D array.
+
     **Input:**
     Array = {{4, 2, 7}, {1, 9, 5}, {6, 3, 8}}
+
     **Output:**
     Largest Element = 9
     Smallest Element = 1
 
 - 2D Array Operations:
 Write a C program to check if a given 2D array is symmetric or not.
+
     **Input:**
     Array = {{1, 2, 3}, {2, 4, 5}, {3, 5, 6}}
+
     **Output:**
     Symmetric
 
 - 2D Array Operations:
 Write a C program to sort rows of a 2D array in ascending order.
+
     **Input:**
     Array = {{9, 2, 6}, {4, 1, 5}, {8, 3, 7}}
+
     **Output:**
     Sorted Array = {{2, 6, 9}, {1, 4, 5}, {3, 7, 8}}
 
 - 2D Array Operations:
 Write a C program to multiply two matrices.
+
     **Input:**
     Matrix A = {{1, 2}, {3, 4}}
     Matrix B = {{5, 6}, {7, 8}}
+
     **Output:**
     Resultant Matrix = {{19, 22}, {43, 50}}
 
 - 2D Array Operations:
 Write a C program to find the sum of each row and each column in a 2D array.
+
     **Input:**
     Array = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}
+    
     Output:
     Row Sums = {6, 15, 24}
     Column Sums = {12, 15, 18}
